@@ -1,4 +1,3 @@
-import oracledb
 import pandas as pd
 import oracledb
 
